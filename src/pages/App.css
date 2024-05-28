@@ -1,0 +1,12 @@
+.filterContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.searchInput,  .dropdown{
+    border: 1px solid rgb(212, 208, 208);
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+}
